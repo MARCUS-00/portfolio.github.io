@@ -1,0 +1,45 @@
+body{
+    height: 100%;
+    width: auto;
+    background-image:  url(/index/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;     
+
+}
+
+.header{
+    color: white;
+    margin: 0 auto;
+    font-family: 'Goldman', cursive;
+    text-decoration: none;
+}
+
+.header1{
+    padding: 10px;
+}
+
+#header-home{
+    color: white;
+    text-decoration: none;
+}
+
+#header-about{
+    color: #fa078c;
+    text-decoration: underline;
+}
+
+.profile{
+    position: absolute;
+    padding-top: 50px ;
+    margin-left: 580px;
+}
+ .about{
+    color: white;
+    font-family: 'Baloo 2', cursive;
+    margin-top: 260px ;
+    margin-left: 510px;
+    width: 350px;
+    text-align: center;
+}

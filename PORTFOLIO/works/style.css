@@ -1,0 +1,92 @@
+body{
+    height: 100%;
+    width: auto;
+    background-image:  url(/index/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;     
+
+}
+
+.header{
+    color: white;
+    margin: 0 auto;
+    font-family: 'Goldman', cursive;
+    text-decoration: none;
+}
+
+.header1{
+    padding: 10px;
+}
+
+#header-home{
+    color: white;
+    text-decoration: none;
+}
+
+#header-works{
+    color: #fa078c;
+    text-decoration: underline;
+}
+
+.container{
+    color: white;
+
+}
+
+/*
+.cars{
+    position: absolute ;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+.personal-site{
+    position: absolute ;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 700px;
+
+}
+.portfolio{
+    position: absolute ;
+    height: 100px;
+    width: 100px;
+    margin-top: 200px;
+    margin-left: 600px;
+}
+
+*/
+
+.clickme1{
+    color: white;
+    font-family: 'Baloo 2', cursive;
+    position: absolute;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 500px;
+
+}
+
+.clickme2{
+    color: white;
+    font-family: 'Baloo 2', cursive;
+    position: absolute;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 600px;
+
+}
+.clickme3{
+    color: white;
+    font-family: 'Baloo 2', cursive;
+    position: absolute;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 700px;
+
+}

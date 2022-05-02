@@ -1,0 +1,75 @@
+body{
+    height: 100%;
+    background-image:  url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;     
+
+}
+
+.header{
+    color: white;
+    margin: 0 auto;
+    font-family: 'Goldman', cursive;
+    text-decoration: none;
+}
+
+.header1{
+    padding: 0.625rem;
+}
+#header-home{
+    color: #fa078c;
+    text-decoration: underline;
+}
+
+.container{
+    
+}
+
+.line{
+    position: absolute;
+    margin-top: 11.25rem;
+    height: 12.5rem;
+    width: 0.125rem;
+    background-color: white;
+    margin-left: 1.875rem;
+}
+
+.txt{
+    color: white;
+    position: absolute;
+    margin-left: 3.75rem;
+    margin-top: 11.25rem;
+}
+
+.h1txt{
+    padding: 0rem;
+    margin-bottom: 0rem;
+    font-family: 'Karla', sans-serif;
+}
+.ptxt{
+    padding-top: 0rem;
+    margin-top: 0rem;
+    font-family: 'Baloo 2', cursive;
+    font-size: 1.563rem;
+}
+.h2txt{
+    font-family: 'Karla', sans-serif;
+    margin-bottom: 0rem;
+}
+.p2txt{
+    font-family: 'Baloo 2', cursive;
+    margin-top: 0.063rem;
+    padding-top: 0rem;
+    font-size: 20px;
+}
+
+.instagram{
+    border: 0rem;
+}
+
+.socialmedia{
+    margin-top: 400px;
+    margin-left: 80px;
+}

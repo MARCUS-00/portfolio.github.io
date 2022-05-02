@@ -1,0 +1,159 @@
+body{
+
+}  
+
+.table{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/*......................................................................................................*/
+.table1{
+    height: 400px;
+    width:250px;
+    background-color: hsl(31, 77%, 52%) ;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-right:-2px;
+    margin-top: 80px;
+    padding: 30px;
+
+}
+
+.sedans{
+    padding-top: 20px;
+    font-family: 'Big Shoulders Display', cursive;
+    color: aliceblue;     
+}
+
+.sedantxt{
+    font-size: 15px;
+    font-family: "Lexend Deca", sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding-top: 0px;
+    padding-bottom: ;
+}
+
+.btlm1{
+    height: 110px;
+}
+
+
+.buttonlm1{
+    border-radius: 150px;
+    text-align: center;
+    background-color: white;
+    color: hsl(31, 77%, 52%) ;
+    height: 35px;
+    width: 120px;
+    text-transform: capitalize;
+    border: 2px solid transparent;
+    transition: 0.2s ease-in color, 0.2s ease-in background-color ;
+    cursor: pointer;
+}
+
+.buttonlm1:hover {
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+} 
+
+/*......................................................................................................*/
+ 
+.table2{
+    height: 400px;
+    width:250px;
+    background-color: hsl(184, 100%, 22%);
+    margin-top: 80px;
+    padding: 30px;
+}
+
+
+.suvs{
+    padding-top: 20px;
+    font-family: 'Big Shoulders Display', cursive;
+    color: aliceblue;     
+}
+
+.suvstxt{
+    font-size: 15px;
+    font-family: "Lexend Deca", sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding-top: 0px;
+    padding-bottom: ;
+}
+
+.btlm2{
+    height: 110px;
+}
+
+
+.buttonlm2{
+    border-radius: 150px;
+    text-align: center;
+    background-color: white;
+    color: hsl(184, 100%, 22%) ;
+    height: 35px;
+    width: 120px;
+    text-transform: capitalize;
+    border: 2px solid transparent;
+    transition: 0.2s ease-in color, 0.2s ease-in background-color ;
+    cursor: pointer;
+}
+
+.buttonlm2:hover {
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+} 
+
+/*......................................................................................................*/
+ 
+
+.table3{
+    height: 400px;
+    width:250px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: hsl(179, 100%, 13%);
+    margin-top: 80px;
+    padding: 30px;
+    margin-left: -2px;
+}
+
+.luxury{
+    padding-top: 20px;
+    font-family: 'Big Shoulders Display', cursive;
+    color: aliceblue;     
+}
+
+.luxurytxt{
+    font-size: 15px;
+    font-family: "Lexend Deca", sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding-top: 0px;
+}
+
+.btlm3{
+    height: 110px;
+}
+
+
+.buttonlm3{
+    border-radius: 150px;
+    text-align: center;
+    background-color: white;
+    color: hsl(179, 100%, 13%);
+    height: 35px;
+    width: 120px;
+    text-transform: capitalize;
+    border: 2px solid transparent;
+    transition: 0.2s ease-in color, 0.2s ease-in background-color ;
+    cursor: pointer;
+}
+
+.buttonlm3:hover {
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+} 

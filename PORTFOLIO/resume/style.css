@@ -1,0 +1,204 @@
+body{
+    height: 100%;
+    width: auto;
+    background-image:  url(/index/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;     
+
+}
+
+.header{
+    color: white;
+    margin: 0 auto;
+    font-family: 'Goldman', cursive;
+    text-decoration: none;
+}
+
+.header1{
+    padding: 10px;
+}
+
+#header-home{
+    color: white;
+    text-decoration: none;
+}
+
+#header-resume{
+    color: #fa078c;
+    text-decoration: underline;
+}
+.h1{
+    font-family: 'Karla', sans-serif;   
+}
+.h2{
+    font-family: 'Karla', sans-serif;
+    position: absolute;
+
+}
+.container{
+    color: white;
+    margin-left: 100px;
+    margin-top: 100px;
+    
+
+}
+.education{
+    text-align: justify;
+    width: 300px;
+    position: absolute;
+}
+.skill{
+    position: absolute;
+    margin-left: 900px;
+
+}
+#resume-pdf{
+    color: orange;
+    font-family: 'Karla', sans-serif;
+    position: absolute;
+    padding-top: 20px;
+    text-decoration:none;
+    margin-top:410px ;
+    width: 100px;
+}
+.p1{
+    font-family: 'Baloo 2', cursive;
+    font-size: large;
+}
+.p2{
+    padding-top: 50px;
+    font-family: 'Baloo 2', cursive;
+    font-size: large;
+
+}
+.p3{
+    font-family: 'Baloo 2', cursive;
+    line-height: 0px;
+    font-size: large;
+
+}
+.p4{
+    font-family: 'Baloo 2', cursive;
+    font-size: 20px;
+    position: absolute;
+    left: 22px;
+    margin-top: 75px;
+
+}
+.p5{
+    font-family: 'Baloo 2', cursive;
+    font-size: 20px;
+    position: absolute;
+    left: 22px;
+    margin-top: 145px;
+
+}
+.p6{
+    font-family: 'Baloo 2', cursive;
+    font-size: 20px;
+    position: absolute;
+    left: 26px;
+    margin-top: 208px;
+    width: 130px;
+}
+
+.p7{
+    font-family: 'Baloo 2', cursive;
+    font-size: 20px;
+    position: absolute;
+    left: 26px;
+    margin-top: 265px;
+}
+
+.html-pic{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    margin-top: 79px;
+
+}
+.html-bar{
+    position: absolute;
+    height: 12px;
+    width: 200px;
+    background-color: black;
+    border-radius: 13px;
+    margin-top: 120px
+}
+.html-bar1{
+    height: 12px;
+    border-radius: 10px;
+    background-color: orange;
+    width: 95%;
+
+}
+.css-pic{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    margin-top: 149px;
+
+}
+.css-bar{
+    position: absolute;
+    height: 12px;
+    width: 200px;
+    background-color: black;
+    border-radius: 13px;
+    margin-top: 180px
+}
+.css-bar1{
+    height: 12px;
+    border-radius: 10px;
+    background-color: orange;
+    width: 90%;
+}
+
+.js-pic{
+    height: 19px;
+    width: 19px;
+    position: absolute;
+    margin-top: 210px;
+    border: 0px;
+
+}
+.js-bar{
+    position: absolute;
+    height: 12px;
+    width: 200px;
+    background-color: black;
+    border-radius: 13px;
+    margin-top: 240px
+}
+.js-bar1{
+    height: 12px;
+    border-radius: 10px;
+    background-color: orange;
+    width: 60%;
+}
+
+
+.python-pic{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    margin-top: 269px;
+
+}
+.python-bar{
+    position: absolute;
+    height: 12px;
+    width: 200px;
+    background-color: black;
+    border-radius: 13px;
+    margin-top: 300px
+}
+.python-bar1{
+    height: 12px;
+    border-radius: 10px;
+    background-color: orange;
+    width: 70%;
+}
+
